@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Oprah Winfrey lobster-hat avatar">
+  <rect width="256" height="256" fill="#ffffff"/>
+  <g transform="translate(0 4)"><ellipse cx="128" cy="90" rx="52" ry="20" fill="#dc2626"/><circle cx="89" cy="88" r="14" fill="#ef4444"/><circle cx="167" cy="88" r="14" fill="#ef4444"/></g>
+  <circle cx="128" cy="132" r="56" fill="#f8fafc"/>
+  <ellipse cx="128" cy="137" rx="40" ry="44" fill="#ad6f4f"/>
+  <path d="M82 132c3-31 20-47 46-47s43 16 46 47" fill="#3f3f46"/>
+  <circle cx="113" cy="136" r="4" fill="#111827"/><circle cx="143" cy="136" r="4" fill="#111827"/>
+  <path d="M114 157c10 8 20 8 30 0" stroke="#7f1d1d" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <text x="128" y="236" text-anchor="middle" font-family="Inter, Arial" font-size="18" fill="#111827" font-weight="700">OW</text>
+</svg>
